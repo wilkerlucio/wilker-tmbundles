@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>isset(\$_SESSION['${1:variable}']) ? \$_SESSION['$1'] : ${2:'$3'}</string>
+	<key>name</key>
+	<string>isset session</string>
+	<key>scope</key>
+	<string>source.php</string>
+	<key>tabTrigger</key>
+	<string>iss</string>
+	<key>uuid</key>
+	<string>C178A981-32B1-4D6A-9B40-6182EEB42C3C</string>
+</dict>
+</plist>
