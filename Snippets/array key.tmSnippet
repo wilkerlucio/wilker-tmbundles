@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>"${1:key}" =&gt; ${2:"${3:value}"}${4:, }</string>
+	<string>"${1:key}" =&gt; ${2:"${3:value}"}${4:, }$0</string>
 	<key>name</key>
 	<string>array key</string>
 	<key>scope</key>
