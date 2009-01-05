@@ -7,7 +7,7 @@
         <key>uuid</key>
         <string>0961CED0-0D5D-4A51-B79C-016F00A29840</string>
         <key>tabTrigger</key>
-        <string>ec</string>
+        <string>=</string>
         <key>content</key>
         <string>&lt;?= $1 ?&gt;$0</string>
         <key>scope</key>
